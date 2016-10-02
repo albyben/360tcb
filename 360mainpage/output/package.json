@@ -1,0 +1,22 @@
+{
+  "name": "360tcb",
+  "version": "0.1.1",
+  "description": "同城帮主页项目",
+  "main": "main",
+  "scripts": {
+    "test": "node require.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellokitty123456/360tcb.git"
+  },
+  "keywords": [
+    "360tcb"
+  ],
+  "author": "penghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellokitty123456/360tcb/issues"
+  },
+  "homepage": "https://github.com/hellokitty123456/360tcb#readme"
+}

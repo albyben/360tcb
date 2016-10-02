@@ -1,0 +1,1 @@
+define(function(){return{getcheckednum:function(){for(var e=document.getElementsByClassName("pagenumbtn"),n=0,t=0;t<e.length;t++)"rgb(255, 255, 255)"==getComputedStyle(e[t]).color&&(n=t);return n}}});

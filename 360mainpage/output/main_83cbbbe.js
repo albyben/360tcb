@@ -1,0 +1,1 @@
+requirejs.config({baseUrl:"lib",paths:{shops:"shops",jquery:"jquery",handler:"handler",getnum:"getnum",quanju:"quanju"},shim:{tool:{exports:"lw"}}}),require(["shops"],function(e){e.listshop(),e.imgturn(),e.secondmenu(),e.gohead(),e.newsearch()});
